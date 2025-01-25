@@ -7,6 +7,7 @@ import (
 
 func main() {
 	logic.ClearScreen()
+	fmt.Println("==============")
 	logic.Greet()
 	logic.ShowMainMenu()
 	fmt.Println("Press Enter To Play The Game")
