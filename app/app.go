@@ -14,5 +14,4 @@ func main() {
 	fmt.Scanln()
 	logic.ClearScreen()
 	logic.AddCharacter()
-
 }
